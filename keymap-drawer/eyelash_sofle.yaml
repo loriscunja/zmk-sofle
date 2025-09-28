@@ -242,7 +242,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - _
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '&BSLH'
   - '{'
   - '}'
   - <
