@@ -85,7 +85,7 @@
 &trans  &kp N1    &kp N2         &kp N3     &kp N4      &kp N5         &trans  &kp N6     &kp N7                &kp N8                 &kp N9            &kp N0             &trans
 &trans  &kp EXCL  &kp AT         &kp HASH   &kp DOLLAR  &kp PERCENT    &trans  &kp CARET  &kp AMPS              &kp ASTRK              &kp N9            &kp N0             &trans
 &trans  &trans    &kp KP_DIVIDE  &kp MINUS  &kp PLUS    &kp PIPE       &trans  &kp EQUAL  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
-&trans  &trans    &trans         &trans     &trans      &kp UNDER      &trans  &trans     &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp LESS_THAN     &kp GREATER_THAN   &trans
+&trans  &trans    &trans         &trans     &trans      &kp UNDER      &trans  &BSLH      &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp LESS_THAN     &kp GREATER_THAN   &trans
 &trans  &trans    &trans         &trans     &trans      &trans         &trans  &trans     &trans                &trans                 &trans            &trans
             >;
         };
