@@ -58,9 +58,9 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
   - system
+  - {t: nav, h: '$$mdi:keyboard-return$$'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: nav, h: '$$mdi:keyboard-space$$'}
-  - $$mdi:keyboard-space$$
+  - {t: '3', h: '$$mdi:keyboard-space$$'}
   - '3'
   - nav
   - $$mdi:apple-keyboard-shift$$
@@ -123,8 +123,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:mouse-left-click-outline$$', type: held}
+  - {type: held}
+  - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held alternate}
@@ -255,8 +255,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
