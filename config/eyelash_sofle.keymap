@@ -64,7 +64,7 @@
             compatible = "zmk,behavior-mod-morph";
             label = "MEH";
             #binding-cells = <0>;
-            bindings = <&kp MEH>;
+            bindings = <&trans>;
             mods = <(LCTL|LALT|LSHFT)>;
         };
 
@@ -72,7 +72,7 @@
             compatible = "zmk,behavior-mod-morph";
             label = "HYPER";
             #binding-cells = <0>;
-            bindings = <&kp HYPER>;
+            bindings = <&trans>;
             mods = <(LCTL|LALT|LSHFT|LGUI)>;
         };
     };
